@@ -1,0 +1,16 @@
+QUAL O GÊNERO DO JOGO?
+
+		O jogo é um Runner.
+	
+COMO FUNCIONA A GAMEPLAY?
+		
+QUAL O OBJETIVO DO JOGADOR?
+
+		O objetivo é conseguir o máximo de pontuação possívell.
+	
+QUAL O ESTILO VISUAL?
+
+		O estilo visual do jogo é pixel arte.
+	
+QUAL O DIFERENCIAL DO JOGO?		
+		O diferencial é que o jogo tem tom humoristico.

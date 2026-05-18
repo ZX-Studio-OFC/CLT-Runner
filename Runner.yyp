@@ -3,7 +3,11 @@
   "resourceVersion": "1.6",
   "name": "Runner",
   "resources": [
+    {"id":{"name":"spr_pag3","path":"sprites/spr_pag3/spr_pag3.yy",},"order":2,},
     {"id":{"name":"spr_pag1","path":"sprites/spr_pag1/spr_pag1.yy",},"order":0,},
+    {"id":{"name":"spr_pag2","path":"sprites/spr_pag2/spr_pag2.yy",},"order":1,},
+    {"id":{"name":"Concepção","path":"notes/Concepção/Concepção.yy",},"order":1,},
+    {"id":{"name":"Pre-Produção","path":"notes/Pre-Produção/Pre-Produção.yy",},"order":2,},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
