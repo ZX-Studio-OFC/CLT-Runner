@@ -19,7 +19,7 @@
 		TAREFAS DIÁRIAS
 		
 	DIA 01 -	Adicionar todas as artes e montar os cenários e a história inicial *********************
-	DIA 02 -	Criar o protagonista, sua movimentação e colisão com o cenário
+	DIA 02 -	Criar o protagonista, sua movimentação e colisão com o cenário *************************
 	DIA 03 -	Fazer todos os coletaveis e inimigos, e sua colisão com o player
 	DIA 04 -	Fazer um quadrado pro coração e fazer ele perder vida após encostar em inimigos e veneno
 	DIA 05 -	Fazer um sistema de pontuação, o player ganhar pontos e serem exibidos na tela
