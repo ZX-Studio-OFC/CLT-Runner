@@ -1,1 +1,49 @@
+		HISTÓRIA
+	você é um jovem que esta jogando vídeo game e sua mãe briga com você, e te expulsa de casa até você encontrar
+	um emprego. Só que você não quer trabalhar. Então seu objetivo é fugir da CLT e comer o máximo possível.
+	
+		MECANICAS
+		
+	Protagonista corre sozinho
+	Com as teclas "A" e "D" o personagem troca de lado
+	O jogador tem 3 corações de vida e uma pontuação
+	Existem 4 comidas, 2 que dão pontos, uma que recupera vida e uma que tira vida
+	Toda vez que encosta no inimigo ou come algo envenenado você perde uma vida
+	Toda vez que você come um hamburguer você recupera um coração
+	
+		CONTROLES
+		
+	AD - Se move entre esquerda e direita
+	ESPACE - Pula pro proximo quadrinho
+	
+		TAREFAS DIÁRIAS
+		
+	DIA 01 -	Adicionar todas as artes e montar os cenários e a história inicial *********************
+	DIA 02 -	Criar o protagonista, sua movimentação e colisão com o cenário
+	DIA 03 -	Fazer todos os coletaveis e inimigos, e sua colisão com o player
+	DIA 04 -	Fazer um quadrado pro coração e fazer ele perder vida após encostar em inimigos e veneno
+	DIA 05 -	Fazer um sistema de pontuação, o player ganhar pontos e serem exibidos na tela
+	DIA 06 -	Fazer a room se repetir conforme ele avança
+	DIA 07 -	Fazer ele andar mais rapido conforme o tempo vai passando
+	DIA 08 -	Fazer ele ganhar mais pontuação conforme o tempo vai passando
+	DIA 09 -	Fazer os inimigos aparecerem aleatoriamente na tela
+	DIA 10 -	Adicionar músicas, efeitos sonoros e sprite de coração
+	DIA 11 -	Adicionar tela de game over "Você foi contratado"
+	DIA 12 -	Adicionar Menu com botão de "Começar"
+	DIA 13 -	Concertar todos os bugs possíveis
+	DIA 14 -	
+	DIA 15 -
+	DIA 16 -
+	DIA 17 -
+	DIA 18 -
+	DIA 19 -
+	DIA 20 -
+	DIA 21 -
+	DIA 22 -
+	DIA 23 -
+	DIA 24 -
+	DIA 25 -
+	DIA 26 -
+	DIA 27 -
+	DIA 28 -
 	
