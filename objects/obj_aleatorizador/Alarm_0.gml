@@ -2,7 +2,6 @@
 // Você pode escrever seu código neste editor
 
 global.coletavel = irandom_range(1, 5)
-show_debug_message("O sorteio aconteceu! Valor: " + string(global.coletavel));
 if(global.coletavel == 1)
 {
 	instance_create_layer(0, -60, "Player", obj_batata)
@@ -26,4 +25,4 @@ if(global.coletavel == 4)
 	instance_create_layer(0, -60, "Player", obj_hamburguer)
 	show_debug_message(4)
 }
-	alarm[0] = random_range(1, 4) * 60
+	alarm[0] = random_range(1, 3) * 60

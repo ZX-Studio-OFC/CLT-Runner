@@ -9,7 +9,7 @@ if(veneno == true)
 
 if(veneno == false)
 {
-	global.pontos += 5	
+	global.pontos = (global.pontos + 4 * room_speed) - 100
 	instance_destroy()
 }
 

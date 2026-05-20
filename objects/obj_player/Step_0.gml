@@ -6,6 +6,8 @@
 if(global.vida == 0)
 {
 	global.vida = 3
+	global.pontos = 0
+	room_speed = 60
 	room_restart()
 }
 

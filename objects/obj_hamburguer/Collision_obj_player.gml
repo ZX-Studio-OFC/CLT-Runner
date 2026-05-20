@@ -8,7 +8,7 @@ if(global.vida <= 2)
 }
 else
 {
-	global.pontos += 10
+	global.pontos = (global.pontos + 10 * room_speed) - 100
 	instance_destroy()
 }
 
