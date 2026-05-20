@@ -1,8 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-velv= 1
-
-direita = false
+global.vida -= 1
+instance_destroy()
 
 

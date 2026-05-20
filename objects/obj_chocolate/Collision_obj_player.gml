@@ -1,8 +1,8 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-velv= 1
+global.pontos += 3
+instance_destroy()
 
-direita = false
 
 
