@@ -6,7 +6,8 @@ if(direita == true)
 	x = 16
 	image_xscale = 1 
 	direita = false
-	show_debug_message(direita)
+	audio_stop_sound(snd_pulo)
+	audio_play_sound(snd_pulo, 10, false)
 }
 
 

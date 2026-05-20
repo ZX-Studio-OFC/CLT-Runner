@@ -27,10 +27,10 @@
 	DIA 07 -	Fazer ele andar mais rapido conforme o tempo vai passando ******************************
 	DIA 08 -	Fazer ele ganhar mais pontuação conforme o tempo vai passando ***********************
 	DIA 09 -	Fazer os inimigos aparecerem aleatoriamente na tela ******************************
-	DIA 10 -	Adicionar músicas, efeitos sonoros e sprite de coração
-	DIA 11 -	Adicionar tela de game over "Você foi contratado"
-	DIA 12 -	Adicionar Menu com botão de "Começar"
-	DIA 13 -	Concertar todos os bugs possíveis
+	DIA 10 -	Adicionar músicas, efeitos sonoros e *sprite de coração**************************
+	DIA 11 -	Fazer um efeito de tela piscando quando morre
+	DIA 12 -	Concertar todos os bugs possíveis
+	DIA 13 -	
 	DIA 14 -	
 	DIA 15 -
 	DIA 16 -

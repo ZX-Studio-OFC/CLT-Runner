@@ -1,5 +1,4 @@
 								Ideias 
-	Sistema de vidas, tendo 3 vidas e perdendo 1 coração cada vez que toma dano
-	Um cosmetico que recupera 1 coração
-	Sistema de pontuação a cada comida pega
 	Sistema de dificuldade
+	Quando vc morre a tela pisca por um tempo igual pac man
+	Musica na história em quadrinhos
