@@ -3,3 +3,4 @@
 
 global.vida = 3
 global.pontos = 0
+global.coletavel = 1

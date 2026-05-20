@@ -23,10 +23,10 @@
 	DIA 03 -	Fazer todos os coletaveis e inimigos, e sua colisão com o player ***********************
 	DIA 04 -	Fazer um quadrado pro coração e fazer ele perder vida após encostar em inimigos e veneno **************
 	DIA 05 -	Fazer um sistema de pontuação, o player ganhar pontos e serem exibidos na tela ************************
-	DIA 06 -	Fazer a room se repetir conforme ele avança
+	DIA 06 -	Fazer a room se repetir conforme ele avança *****************************
 	DIA 07 -	Fazer ele andar mais rapido conforme o tempo vai passando
 	DIA 08 -	Fazer ele ganhar mais pontuação conforme o tempo vai passando
-	DIA 09 -	Fazer os inimigos aparecerem aleatoriamente na tela
+	DIA 09 -	Fazer os inimigos aparecerem aleatoriamente na tela ******************************
 	DIA 10 -	Adicionar músicas, efeitos sonoros e sprite de coração
 	DIA 11 -	Adicionar tela de game over "Você foi contratado"
 	DIA 12 -	Adicionar Menu com botão de "Começar"
@@ -48,4 +48,4 @@
 	DIA 28 -
 	
 	
-	Agora o jogo mostra a vida do player com corações na tela, que serão substituidos por uma sprite descente em breve. O sistema de pontuação foi adicionado e é exibido na tela.
+	

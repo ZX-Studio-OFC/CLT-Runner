@@ -11,7 +11,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_lanche_pai",
+    "path": "objects/obj_lanche_pai/obj_lanche_pai.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
